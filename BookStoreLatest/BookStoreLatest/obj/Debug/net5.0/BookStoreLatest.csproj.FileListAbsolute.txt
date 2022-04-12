@@ -1,0 +1,16 @@
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.exe
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.deps.json
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.runtimeconfig.json
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.runtimeconfig.dev.json
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.dll
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\ref\BookStoreLatest.dll
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\bin\Debug\net5.0\BookStoreLatest.pdb
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.csproj.AssemblyReference.cache
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.AssemblyInfoInputs.cache
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.AssemblyInfo.cs
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.csproj.CoreCompileInputs.cache
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.dll
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\ref\BookStoreLatest.dll
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.pdb
+C:\Users\Abidi\source\repos\BookStoreLatest\BookStoreLatest\obj\Debug\net5.0\BookStoreLatest.genruntimeconfig.cache
